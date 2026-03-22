@@ -22,7 +22,7 @@ body{
     color: var(--text-light);
     background-color: var(--bg-dark);
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
-    background-image: linear-gradient( rgba(0, 0, 0, 0.8)), url(/assets/Chinese\ Ink.jpeg);
+    background-image: linear-gradient( rgba(0, 0, 0, 0.8)), url(assets/Chinese\ Ink.jpeg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
